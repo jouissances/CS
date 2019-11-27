@@ -51,7 +51,7 @@ The following are to be considered when designing a business continuity plan.
         - Internal Threats
           [This is where most cyber attacks come from.]
 
-              e.g. Employees, both former and current
+          e.g. Employees, both former and current
 
         - External Threats
 
