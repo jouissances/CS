@@ -26,50 +26,51 @@ The **protection of information systems** from unauthorized access, use, disclos
 
 The following are to be considered when designing a business continuity plan.
 
-1. **Vulnerability**
+1.  **Vulnerability**
 
-   Flaw, loophole, oversight, or error that can be exploited to violate system security policy.
-   e.g. Code that is vulnerable to a [buffer overflow exploit](https://www.geeksforgeeks.org/buffer-overflow-attack-with-example/)
+    Flaw, loophole, oversight, or error that can be exploited to violate system security policy.
 
-   - _Vulnerability assessment_ is the process of identifying, analysing, and [ranking vulnerabilities](https://www.first.org/cvss/specification-document) — followed by a patch or a fix to prevent a compromise.
-   - Many system are shipped to production with security holes and bugs (known _and_ unknown), as well as insecure default settings.
-     e.g. Hardware or software with username and password set as `admin`, or `root`.
+    e.g. Code that is vulnerable to a [buffer overflow exploit](https://www.geeksforgeeks.org/buffer-overflow-attack-with-example/)
 
-   [This is a *misconfiguration vulnerability*, as a threat attack can connect to these tech and use those credentials to perform any malicious activity.]
+    - _Vulnerability assessment_ is the process of identifying, analysing, and [ranking vulnerabilities](https://www.first.org/cvss/specification-document) — followed by a patch or a fix to prevent a compromise.
+    - Many system are shipped to production with security holes and bugs (known _and_ unknown), as well as insecure default settings.
+      e.g. Hardware or software with username and password set as `admin`, or `root`.
 
-   [How to fix: The sysadmin needs to re-configure the hardware or software username and password, or take necessary actions to fake the vulnerability.]
+    [This is a *misconfiguration vulnerability*, as a threat attack can connect to these tech and use those credentials to perform any malicious activity.]
 
-2. **Threat**
+    [How to fix: The sysadmin needs to re-configure the hardware or software username and password, or take necessary actions to fake the vulnerability.]
 
-   Natural or man-made event that has potential to cause negative impact to an organisation.
-   e.g. Hacking, natural disasters
+2.  **Threat**
 
-   - _Security Threats_
-   - Human Factors
+    Natural or man-made event that has potential to cause negative impact to an organisation.
 
-     - Internal Threats
-       [This is where most cyber attacks come from.]
+    - _Security Threats_
 
-     e.g. Employees, both former and current
+      - Human Factors
 
-     - External Threats
+        - Internal Threats
+          [This is where most cyber attacks come from.]
 
-     e.g. Hackers, crackers, viruses, Trojans, worms
+              e.g. Employees, both former and current
 
-   - Natural Factors
-     e.g. Natural disasters
+        - External Threats
 
-3. **Exploit**
+          e.g. Hackers, crackers, viruses, Trojans, worms
 
-   A defined way to breach the security of an IT system through a vulnerability.
+      - Natural Factors
+        e.g. Natural disasters
 
-   e.g. Code that is available on the Internet, which can be used to attack a vulnerable application
+3.  **Exploit**
 
-4. **Risk**
+    A defined way to breach the security of an IT system through a vulnerability.
 
-   Situations involving exposure to danger.
+    e.g. Code that is available on the Internet, which can be used to attack a vulnerable application
 
-   e.g. Probability of a vulnerability being exploited
+4.  **Risk**
+
+    Situations involving exposure to danger.
+
+    e.g. Probability of a vulnerability being exploited
 
 ### Roles
 
