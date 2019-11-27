@@ -30,7 +30,7 @@ The following are to be considered when designing a business continuity plan.
 
     Flaw, loophole, oversight, or error that can be exploited to violate system security policy.
 
-    e.g. Code that is vulnerable to a [buffer overflow exploit](https://www.geeksforgeeks.org/buffer-overflow-attack-with-example/)
+    e.g. Code that is vulnerable to a [buffer overflow exploit](https://www.geeksforgeeks.org/buffer-overflow-attack-with-example/), cross-site scripting (SQL injections, privilege collections, local-remote file uploads)
 
     - _Vulnerability assessment_ is the process of identifying, analysing, and [ranking vulnerabilities](https://www.first.org/cvss/specification-document) — followed by a patch or a fix to prevent a compromise.
     - Many system are shipped to production with security holes and bugs (known _and_ unknown), as well as insecure default settings.
@@ -103,3 +103,4 @@ The following are to be considered when designing a business continuity plan.
 4. Buckshoot Yankee
 5. Desert Storm (cyber-ops)
 6. Bosnia Wars (cyber-ops)
+7. Operation Olympic Games
