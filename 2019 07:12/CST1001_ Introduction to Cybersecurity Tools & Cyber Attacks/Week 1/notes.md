@@ -93,4 +93,13 @@ The following are to be considered when designing a business continuity plan.
 
 - Penetration Tester
 
-- Digital Forensics
+- Digital Forensics Analyst
+
+### Case Studies
+
+1. Clipper Chip
+2. Moonlight Maze
+3. Solar Sunrise
+4. Buckshoot Yankee
+5. Desert Storm (cyber-ops)
+6. Bosnia Wars (cyber-ops)
