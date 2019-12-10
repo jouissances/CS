@@ -36,7 +36,7 @@ The following are to be considered when designing a business continuity plan.
     - Many system are shipped to production with security holes and bugs (known _and_ unknown), as well as insecure default settings.
       e.g. Hardware or software with username and password set as `admin`, or `root`.
 
-    [This is a *misconfiguration vulnerability*, as a threat attack can connect to these tech and use those credentials to perform any malicious activity.]
+    [This is a _misconfiguration vulnerability_, as a threat attack can connect to these tech and use those credentials to perform any malicious activity.]
 
     [How to fix: The sysadmin needs to re-configure the hardware or software username and password, or take necessary actions to fake the vulnerability.]
 
@@ -104,3 +104,4 @@ The following are to be considered when designing a business continuity plan.
 5. Desert Storm (cyber-ops)
 6. Bosnia Wars (cyber-ops)
 7. Operation Olympic Games
+8. Typical UNIX kernel attack
